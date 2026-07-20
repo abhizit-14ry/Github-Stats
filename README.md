@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am Abhijeet Chaudhary, a driven Computer Science and Engineering (B.Tech) graduate specializing in full-stack web development. With core expertise in the MERN stack—MongoDB, Express.js, React, and Node.js—I focus on building scalable, data-driven web applications. I bridge the gap between secure, efficient backend architecture and intuitive, highly responsive frontend interfaces to deliver complete software solutions."
+"I am Abhijeet Chaudhary, a driven Computer Science and Engineering (B.Tech) graduate specializing in full-stack web development. With core expertise in the MERN stack—MongoDB, Express.js, React, and Node.js—I focus on building scalable, data-driven web applications."
 
 
 ## 🌐 Socials:
